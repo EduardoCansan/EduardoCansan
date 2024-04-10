@@ -2,19 +2,7 @@
 
 - Aprendendo Programação 👋😁
 
-  ##
-
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EduardoCansan&show_icons=true&theme=merko"
-    media="(prefers-color-scheme: merko)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EduardoCansan&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: merko)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardoCansan&show_icons=true" />
-</picture>
+![EduardoCansan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoCansan&show_icons=true&theme=merko)
 
 ##
 
@@ -27,6 +15,7 @@
   <img align="center" alt="EduardoCansan-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />       
 </div>
 
+##
 
 ### Social 🌎
 
