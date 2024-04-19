@@ -20,6 +20,6 @@
 ### Social 🌎
 
 <div> 
-   <a href="https://www.linkedin.com/in/eduardo-meirelles-menegat-cansan-a44403287/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/eduardo-meirelles-menegat-cansan-a44403287/" rel="next" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="next" target="_blank"></a>
   <a href = "mailto:eduardocansann@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
