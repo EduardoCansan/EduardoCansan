@@ -39,5 +39,8 @@
 <a href="https://github.com/EduardoCansan">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoCansan&layout=compact&langs_count=7&theme=github_dark_dimmed&include_all_commits=true&count_private=false"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoCansan&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=false"/>
-</div>
+</div><br>
+
+![Typing GIF](https://raw.githubusercontent.com/EduardoCansan/EduardoCansan/main/anime-boy-using-computer.gif)
+
 
