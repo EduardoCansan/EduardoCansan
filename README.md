@@ -7,7 +7,7 @@
 ## Languages, Tools and Technologies 💻
   
 <div style="display: inline_block">
-    <img alt="EduardoCansan-PHP" align="center" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />       
+    <img alt="EduardoCansan-PHP" align="center" height="40" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />      
     <img alt="EduardoCansan-Java" align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
     <img alt="EduardoCansan-Python" align="center" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     <img alt="EduardoCansan-HTML" align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
@@ -20,6 +20,7 @@
     <img alt="Eduardo-Cansan-Git" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img alt="Eduardo-Cansan-Github" style="background-color: #ffffff" align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 </div>
+    <img style="background-color: #ffffff" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 ## Social 🌎
 
