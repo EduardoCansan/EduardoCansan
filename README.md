@@ -3,7 +3,6 @@
 - At the moment, I'm in the 5th semester of Computer Science at Unisinos, Porto Alegre.
 - I'm currently working at Grupo Doc as a Full Stack Developer.
 - I have experience with web scraping, website development (including backend, frontend, and databases), and several projects using the knowledge listed below.
-<br>
 
 ## Languages, Tools and Technologies 💻
   
@@ -21,10 +20,8 @@
     <img alt="Eduardo-Cansan-MySql" align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img alt="Eduardo-Cansan-Git" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img alt="Eduardo-Cansan-Github" align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    <br>
-          
 </div>
-
+<br>
 
 ## Social 🌎
 
