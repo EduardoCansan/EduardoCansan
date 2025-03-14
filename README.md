@@ -2,7 +2,7 @@
 
 - I am currently in the 5th semester of the Computer Science at Unisinos, in Porto Alegre.
 - I work at Grupo Doc as a Full Stack Developer.
-- Portuguese is my native language, and I currently have an intermediate level of English.
+- Portuguese is my native language, and I currently have an intermediate/advanced level of English.
 - I have experience in Web Scraping, Website Development (including back-end, front-end, and databases), and several projects using the following technologies:
 
 ## Languages, Tools and Technologies 💻
