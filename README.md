@@ -1,6 +1,6 @@
 <h1 align="center">Hello World, I'm Eduardo 😁</h1>
 
-- I am currently in the 5th semester of the Computer Science at Unisinos, in Porto Alegre.
+- I am currently in the 6th semester of the Computer Science at Unisinos, in Porto Alegre.
 - I work at Grupo Doc as a Full Stack Developer.
 - Portuguese is my native language, and I currently have an intermediate/advanced level of English.
 - I have experience in Web Scraping, Website Development (including back-end, front-end, and databases), and several projects using the following technologies:
