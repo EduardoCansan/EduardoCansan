@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Eduardo 😁</h1>
 
 - I am currently in the 6th semester of the Computer Science at Unisinos, in Porto Alegre.
-- I work at Grupo Doc as a Full Stack Developer.
+- I work at Evester as a Full Stack Developer.
 - Portuguese is my native language, and I currently have an intermediate/advanced level of English.
 - I have experience in Web Scraping, Website Development (including back-end, front-end, and databases), and several projects using the following technologies:
 
@@ -24,6 +24,8 @@
     <img alt="Eduardo-Cansan-MySql" align="center" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
     <img alt="Eduardo-Cansan-Git" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
     <img alt="Eduardo-Cansan-Github" style="background-color: #ffffff" align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img alt="Eduardo-Cansan-Linux" style="background-color: #ffffff" align="center" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+          
 </p>
 
 <h2 align="center">Social 🌎</h2>
